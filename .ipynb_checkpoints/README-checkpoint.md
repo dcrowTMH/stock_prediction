@@ -3,6 +3,8 @@ Stock prediction with yahoo finance data. Try to combine with DOCKER &amp; Serve
 
 data_load_stock.ipynb
 - Start to obtain the price using yfinance library
-- Next step: Convert the data we needed and transform it into a csv file
-             Connect SQL or Docker to upload it
-             It can be updated by server automation
+- Convert the data into table for three stock only. (Next step: Try with wide range of stock)
+- Plan:
+    - Connect SQL or Docker to upload it
+    - Research for stock price prediction equation
+    - Dash Board build up
